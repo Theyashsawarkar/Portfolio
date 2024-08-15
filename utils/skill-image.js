@@ -1,4 +1,8 @@
 import * as adobeXd from '/public/svg/skills/adobe-xd.svg';
+import neovim from '/public/svg/skills/Neovim.svg';
+import linux from '/public/svg/skills/linux.svg';
+import arch from '/public/svg/skills/archlinux.svg';
+import nodejs from '/public/svg/skills/nodejs.svg';
 import adobeaudition from '/public/svg/skills/adobeaudition.svg';
 import afterEffects from '/public/svg/skills/after-effects.svg';
 import angular from '/public/svg/skills/angular.svg';
@@ -225,6 +229,14 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
+    case 'neovim':
+      return neovim;
+    case 'linux':
+      return linux;
+    case 'arch':
+      return arch;
+    case 'nodejs':
+      return nodejs;
     default:
       break;
   }
