@@ -11,5 +11,5 @@ export const personalData = {
   twitter: 'https://twitter.com/theyashsawarkar',
   coding_ninjas: "https://www.codingninjas.com/studio/profile/Theyashsawarkar",
   devUsername: 'theyashsawarkar',
-  resume: "https://drive.google.com/file/d/13CcfCNoYIkjkC16VIqwQCOqn1ONLzaTr/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/11kZV2Yd6q3NYXbBKyfXVYfd2NWr1iypr/view?usp=drive_link"
 }

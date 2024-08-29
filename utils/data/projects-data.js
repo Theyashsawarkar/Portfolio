@@ -13,8 +13,8 @@ export const projectsData = [
     name: 'VideoTube',
     description: 'VideoTube is a Full Stack application that merges the functionalities of YouTube and Twitter. It supports Video and Image uploads, user authentication , comments , likes and the ability to post and manage tweets. ',
     tools: ['Js', 'Node Js', 'Express', 'Mongoose', 'MongoDB', 'Multer', 'Json Web Token', 'BCrypt', 'Cloudinary', 'Cookie-Parser', 'Cors', 'DotEnv'],
-    demo: 'https://video-tube-front-end-app.vercel.app',
-    git: 'https://github.com/Theyashsawarkar/VideoTube_FrontEnd',
+    demo: 'https://videotube-frontend.vercel.app',
+    git: 'https://github.com/Theyashsawarkar/VideoTube-FrontEnd',
   }, {
     id: 3,
     name: 'True Feedback',
